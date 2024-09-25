@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919431182088",
+    "project_id": "socialhivepretice",
+    "storage_bucket": "socialhivepretice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919431182088:android:d57b5b9093ae15a6201ebd",
+        "android_client_info": {
+          "package_name": "com.example.socialhive_dart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgRTxxkQ8ThN0j-W05Yi2R3epMrctT0Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
